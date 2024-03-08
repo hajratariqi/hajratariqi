@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Hajra Tariqi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" width="450px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding">
+<img align="right" width="20vw" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding">
 
 - 🌱 I’m currently learning **Front End Development**
 
