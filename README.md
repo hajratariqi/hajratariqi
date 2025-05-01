@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Front End Development**
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
+- 💬 Ask me about **HTML, CSS, and JavaScript, ReactJs, typescript, React native, nodeJs, Mongodb, tailwind, **
 
 - 📫 How to reach me **hajra.ashrafqadri@gmail.com**
 
