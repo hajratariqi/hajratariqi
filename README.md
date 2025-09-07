@@ -12,29 +12,7 @@ I'm a passionate developer with 3+ years of experience building web and mobile a
 - 📫 **Reach me**: [hajra.ashrafqadri@gmail.com](mailto:hajra.ashrafqadri@gmail.com)  
 - ⚡ **Why I code**: Late-night coding sprints fuel my passion for turning ideas into reality.
 
----
 
-### 🛠️ Languages & Tools
-
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg) ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg) ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg) ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-
-**Workflow**: Agile practices, Jest for testing, CI/CD with Vercel, and a focus on clean, maintainable code.
-
----
-
-### 📊 GitHub Stats & Streak
-
-![Hajra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajratariqi&show_icons=true&locale=en&theme=radical)  
-![Hajra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hajratariqi&theme=radical)
-
----
-
-### 🎓 Certifications
-
-![Saylani Certification](https://img.shields.io/badge/Saylani-Web%20%26%20Mobile%20Dev-2021-green)  
-Earned a full-stack development certification from Saylani Welfare International Trust; won top spots in AI/web hackathons.
-
----
 
 ### 🤝 Connect with Me
 
