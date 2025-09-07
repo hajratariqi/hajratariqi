@@ -43,7 +43,3 @@ I'm a passionate and self-driven software engineer with over 3 years of experien
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hajratariqi&label=Profile%20Views&color=0e75b6&style=flat" alt="hajratariqi" />
 </p>
-
----
-
-*Built with ❤️ and a lot of JavaScript in Pakistan.*
