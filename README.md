@@ -7,15 +7,14 @@
 I build full-stack applications with integrated AI solutions and complex API systems. Passionate about creating scalable, efficient code that solves real problems.
 
 🔭 Working on: AI chatbots & e-commerce platforms
-
 🌱 Learning: LangChain, Agents, AWS Cloud
-
 💬 Ask me about: React, Node.js, API Integrations
-
 📫 Reach me: hajra.ashrafqadri@gmail.com
 
-### 🛠️ Tech Stack
 
+
+
+### 🛠️ Tech Stack
 | Category | Skills |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
