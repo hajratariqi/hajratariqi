@@ -4,13 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-I'm a passionate and self-driven software engineer with over 3 years of experience architecting and building full-stack applications. I thrive on integrating cutting-edge AI and orchestrating complex APIs to create high-impact, scalable solutions. From freelance ventures to entrepreneurial projects, I love turning complex problems into clean, efficient code.
+I build full-stack applications with integrated AI solutions and complex API systems. Passionate about creating scalable, efficient code that solves real problems.
 
-- 💡 **I'm interested in:** AI/ML, API Design, and Developer Tooling (like Bolt.new/StackBlitz!).
-- 💬 **Ask me about:** React, Node.js, API Integrations, or how to mix AI into your stack.
-- 📫 **How to reach me:** [hajra.ashrafqadri@gmail.com](mailto:hajra.ashrafqadri@gmail.com)
+🔭 Working on: AI chatbots & e-commerce platforms
 
----
+🌱 Learning: LangChain, Agents, AWS Cloud
+
+💬 Ask me about: React, Node.js, API Integrations
+
+📫 Reach me: hajra.ashrafqadri@gmail.com
 
 ### 🛠️ Tech Stack
 
