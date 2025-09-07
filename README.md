@@ -28,6 +28,3 @@ I'm a passionate and self-driven software engineer with over 3 years of experien
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajra.ashrafqadri@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hajratariqi)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hajratariqi&label=Profile%20Views&color=0e75b6&style=flat" alt="hajratariqi" />
-</p>
