@@ -21,18 +21,6 @@ I'm a passionate and self-driven software engineer with over 3 years of experien
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
 | **AI & APIs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=Stripe&logoColor=white) |
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/hajratariqi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hajratariqi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hajra's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajratariqi&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-  </a>
-</p>
-
----
 
 ### 🤝 Let's Connect!
 
