@@ -6,13 +6,9 @@
 
 I'm a passionate and self-driven software engineer with over 3 years of experience architecting and building full-stack applications. I thrive on integrating cutting-edge AI and orchestrating complex APIs to create high-impact, scalable solutions. From freelance ventures to entrepreneurial projects, I love turning complex problems into clean, efficient code.
 
-- 🔭 **I’m currently working on:** Advanced AI chatbots and scalable e-commerce platforms.
-- 🌱 **I’m currently learning:** Deep diving into LangChain, Agents, and AWS Cloud.
-- 👯 **I’m looking to collaborate on:** Innovative AI projects and open-source tools.
 - 💡 **I'm interested in:** AI/ML, API Design, and Developer Tooling (like Bolt.new/StackBlitz!).
 - 💬 **Ask me about:** React, Node.js, API Integrations, or how to mix AI into your stack.
 - 📫 **How to reach me:** [hajra.ashrafqadri@gmail.com](mailto:hajra.ashrafqadri@gmail.com)
-- ⚡ **Fun fact:** I believe the best code is written after 2 AM, fueled by copious amounts of coffee ☕.
 
 ---
 
