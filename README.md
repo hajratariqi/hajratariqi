@@ -6,7 +6,7 @@
 I build full-stack applications with integrated AI solutions and complex API systems. Passionate about creating scalable, efficient code that solves real problems.
 
 
-- 💡 **I'm interested in:** AI/ML, API Design, and Developer Tooling (like Bolt.new/StackBlitz!).
+- 💡 **I'm interested in:** AI/ML, API Design.
 - 💬 **Ask me about:** React, Node.js, API Integrations, or how to mix AI into your stack.
 - 📫 **How to reach me:** [hajra.ashrafqadri@gmail.com](mailto:hajra.ashrafqadri@gmail.com)
 
