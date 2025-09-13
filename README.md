@@ -23,17 +23,6 @@ I build full-stack applications with integrated AI solutions and complex API sys
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/hajratariqi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hajratariqi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hajra's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajratariqi&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-  </a>
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajra-ashraf-8985082b9/)
